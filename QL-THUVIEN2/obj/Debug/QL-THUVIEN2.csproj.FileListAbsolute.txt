@@ -47,3 +47,6 @@ C:\Users\Duyet Pham\Desktop\thuvien\QL-THUVIEN2\obj\Debug\QL_THUVIEN2.frmQuanlym
 C:\Users\Duyet Pham\Desktop\thuvien\QL-THUVIEN2\obj\Debug\QL_THUVIEN2.frmPhieuTra.resources
 C:\Users\Duyet Pham\Desktop\thuvien\QL-THUVIEN2\obj\Debug\QL_THUVIEN2.frmTheLoai.resources
 C:\Users\Duyet Pham\Desktop\thuvien\QL-THUVIEN2\obj\Debug\QL_THUVIEN2.frmBaocao.af.resources
+C:\Users\Huy\Documents\GitHub\Libary-Manager\QL-THUVIEN2\bin\Debug\QL-THUVIEN2.exe.config
+C:\Users\Huy\Documents\GitHub\Libary-Manager\QL-THUVIEN2\obj\Debug\QL-THUVIEN2.exe
+C:\Users\Huy\Documents\GitHub\Libary-Manager\QL-THUVIEN2\obj\Debug\QL-THUVIEN2.pdb
